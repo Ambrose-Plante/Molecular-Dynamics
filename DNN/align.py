@@ -58,7 +58,7 @@ mobile = mda.Universe(psf, dcd)
 ref = mda.Universe(psf, dcd)
 
 mobile.trajectory[-1]  # set mobile trajectory to last frame
-ref.trajectory[3000]  # set reference trajectory to first frame
+ref.trajectory[0]  # set reference trajectory to first frame
 
 # Align using the inverse of the standard deviation as weights
 aligner = align.AlignTraj(
