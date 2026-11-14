@@ -20,7 +20,7 @@ The archive also contains later, system-specific experiment settings; the checke
 | Features | `trajectory_tools/` | Load coordinates, reshape frames into image-like tensors, split data, and normalize inputs. |
 | Visualization | `visualize.ipynb`, `step_3B_visualize/` | post analysis notebooks. |
 | Sensitivity | `step_4_sensitivity_analysis/` | Guided-backpropagation saliency for selected classes and samples. |
-| Alignment | `align.py` | very fast trajectory-alignment algorithm weighting atom importance by their temporal-cartesian stability. |
+| Alignment | `align.py` | very fast trajectory-alignment algorithm weighting the most stable atoms the highest for the alignment. |
 
 ## usage example for step 2
 
