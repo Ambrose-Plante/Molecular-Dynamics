@@ -4,8 +4,8 @@ A collection of research projects that Ambrose Plante worked on in the Weinstein
 
 ## Projects
 
-- **DNN** — original repository: [weinsteinlab/DNN](https://github.com/weinsteinlab/DNN)
-- **Rare-Event-Detection** — original repository: [weinsteinlab/Rare-Event-Detection](https://github.com/weinsteinlab/Rare-Event-Detection)
+- **DNN** — original repository: [weinsteinlab/DNN](https://github.com/weinsteinlab/DNN). My original code was edited by other lab members.
+- **Rare-Event-Detection** — original repository: [weinsteinlab/Rare-Event-Detection](https://github.com/weinsteinlab/Rare-Event-Detection). My original code was edited by other lab members.
 - **Prokink** — original repository: [weinsteinlab/Prokink](https://github.com/weinsteinlab/Prokink)
 - **Parallel-wrap** — original repository: [weinsteinlab/Parallel-wrap](https://github.com/weinsteinlab/Parallel-wrap)
 - **mega_CV_maker** — original repository: [weinsteinlab/mega_CV_maker](https://github.com/weinsteinlab/mega_CV_maker)
